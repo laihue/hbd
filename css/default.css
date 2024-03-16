@@ -12,7 +12,7 @@ body {
 }
 a {
     color: #00ff45;
-    font-size: 14px;
+    font-size: 17px;
     text-decoration: none;
 }
 #main {
@@ -34,7 +34,7 @@ a {
 }
 #code {
     display: none;
-    font-size: 16px;
+    font-size: 20px;
 }
 #clock-box {
     position: absolute;
@@ -51,7 +51,7 @@ a {
     margin-left: 48px;
 }
 #clock .digit {
-    font-size: 64px;
+    font-size: 45px;
 }
 #canvas {
     margin: 0 auto;

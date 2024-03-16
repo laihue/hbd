@@ -1,0 +1,19 @@
+@media (max-width: 750px) {
+    .buttons{
+        padding: 1rem;
+    }
+    .cover {
+        width: 200px;
+        height: 200px;
+        margin-top: 0rem; 
+    }
+    .page__main{
+        background-position-y:-2rem;
+    }
+    .btn-bir ,
+    .btn-timeline ,
+    .btn-gallery {
+        padding: 15px 50px;
+    }
+    
+}
