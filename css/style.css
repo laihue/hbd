@@ -115,3 +115,16 @@ a {
     border-radius: 120px;
     border: 5px solid rgb(2, 116, 247);
 }
+@media (max-width: 750px) {
+    .buttons{
+        padding: 1rem;
+    }
+    .cover {
+        width: 200px;
+        height: 200px;
+        margin-top: 0rem; 
+    }
+    .page__main{
+        background-position-y:-2rem;
+    }
+}
